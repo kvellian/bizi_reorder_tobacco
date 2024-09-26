@@ -39,11 +39,12 @@ Summary:
 
 ## Tobacco List
 
-<div style="text-align: center;">
-    <iframe src="https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm" 
-            style="width: 100%; max-width: 1000px; height: 600px;" 
-            frameborder="0">
-    </iframe>
-</div>
+## Tobacco List
+
+<iframe src="https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm" 
+        style="width: 100%; min-width: 900px; height: 600px;" 
+        frameborder="0">
+</iframe>
+
 
 
