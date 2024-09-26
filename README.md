@@ -2,9 +2,9 @@
 
 This dataset, Tobacco_Inv_8.28.24_9.11.24.csv, was obtained from the Vendor Detail Report via LMS-POS from Bizi Mart in Antioch, CA.
 
-This dataset contains information such as the count of tobacco items sold during a period of time (8/28/24 to 9/11/24) and the inventory count of the items.
+This dataset contains information such as the count of sold tobacco items only during a period of time (8/28/24 to 9/11/24) and the inventory count of the items.
 
-I manually assigned the vendor (PITCO FOODS) to each tobacco product to ensure they were included in this report.
+I manually assigned the vendor (PITCO FOODS) to over 270 tobacco products in our system to ensure they will be included in this report, when applicable.
 
 ## Python Code
 
@@ -14,7 +14,9 @@ I manually assigned the vendor (PITCO FOODS) to each tobacco product to ensure t
 
 This project aims to create a color-coded tobacco product shopping list for Bizi Mart that highlights levels of urgency to reorder (Red, Yellow, Orange, Green).
 
-This program assigns box/case values for each product based on its type and calculates reorder points with this information.
+This program assigns box/case values to each product based on its brand and type and calculates reorder points using this information.
+
+NOTE: This program is still a work in progress. Eventually, I will make a color-coded list, similar in concept, for our liquor products.
 
 
 ## Use Case
@@ -26,7 +28,7 @@ This color-coded list takes in the Vendor Detail Report for tobacco products ove
 
 ## Reorder Point Rules
 
-Summary:
+**Summary**:
 
 **Red**: Critical reorder needed - if Sold > On Hand or On Hand < Box.
 - If we sold more units than we currently have in stock or if we have less than a case/box in stock.
