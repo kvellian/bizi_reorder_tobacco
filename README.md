@@ -35,16 +35,10 @@ Summary:
 
 ## Output Result - Excel File
 
-## Tobacco List
-
-## Tobacco List
-
-## Tobacco List
+- [Bizi Mart Tobacco Reorder Point List](https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm)
 
 <iframe src="https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm" 
         style="width: 100%; min-width: 900px; height: 600px;" 
         frameborder="0">
 </iframe>
-
-
 
