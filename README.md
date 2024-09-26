@@ -32,3 +32,7 @@ Orange: Approaching reorder point - if On Hand <= 2 * Sold but greater than 1.5 
 
 Green: Sufficient stock - if On Hand > 2 * Sold and On Hand > 2 * Box.
 
+
+## Output Result
+
+
