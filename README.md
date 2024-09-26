@@ -25,26 +25,25 @@ Please see the current output/results below.
 
 Bizi Mart places biweekly orders for tobacco products with our vendor, PITCO FOODS. Previously, the shopping list was handwritten or typed. Occasionally, products that were empty on shelves would be forgotten when ordering. 
 
-This color-coded list takes in the Vendor Detail Report for tobacco products over a 2-week period to run against the program to make more informed decisions when ordering tobacco products.
-
+The operations manager will create the Vendor Detail Report for tobacco products sold over a 2-week period. Afterward, the report will be run through the program to generate a color-coded list via Excel. This list will be used to make more informed decisions when ordering tobacco products.
 
 ## Reorder Point Rules
 
 **Summary**:
 
-<span style="background-color: red; color: white; padding: 2px;">Red</span> (Critical): Critical reorder needed - if Sold > On Hand or On Hand < Box.
+<span style="background-color: red; color: white; padding: 2px;">Red (Critical):</span> Critical reorder needed - if Sold > On Hand or On Hand < Box.
 - If we sold more units than we currently have in stock or if we have less than a case/box in stock.
 - Reorder products immediately.
   
-<span style="background-color: yellow; color: black; padding: 2px;">Yellow</span> (Moderate): Moderate reorder point - if On Hand <= 1.5 * Sold or On Hand <= 1.5 * Box but greater than Box.
+<span style="background-color: yellow; color: black; padding: 2px;">Yellow (Moderate):</span> Moderate reorder point - if On Hand <= 1.5 * Sold or On Hand <= 1.5 * Box but greater than Box.
 - If inventory is less than or equal to 1.5 times the number of units sold. Or if inventory is less than or equal to 1.5 times a case/box.
 - Stock levels are getting low, order a few cases/boxes to cover 2 weeks.
 
-<span style="background-color: orange; color: white; padding: 2px;">Orange</span> (Approaching): Approaching reorder point - if On Hand <= 2 * Sold but greater than 1.5 * Sold or On Hand <= 2 * Box but greater than 1.5 * Box.
+<span style="background-color: orange; color: white; padding: 2px;">Orange (Approaching): </span> Approaching reorder point - if On Hand <= 2 * Sold but greater than 1.5 * Sold or On Hand <= 2 * Box but greater than 1.5 * Box.
 - If inventory is less than or equal to 2 times the number of units sold but greater than 1.5 times the units sold. Or if inventory is less than or equal to 2 times the case/box by greater than 1.5 times the units sold.
 - Monitor the product trend. Potentially reorder in 2 weeks.
 
-<span style="background-color: green; color: white; padding: 2px;">Green</span> (Sufficient): Sufficient stock - if On Hand > 2 * Sold and On Hand > 2 * Box.
+<span style="background-color: green; color: white; padding: 2px;">Green (Sufficient): </span> Sufficient stock - if On Hand > 2 * Sold and On Hand > 2 * Box.
 - If inventory is greater than 2 times the number of units sold and inventory is greater than 2 times case/box.
 - No need to reorder this period.
 
