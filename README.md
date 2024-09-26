@@ -35,5 +35,4 @@ Green: Sufficient stock - if On Hand > 2 * Sold and On Hand > 2 * Box.
 
 ## Output Result
 
-https://github.com/kvellian/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm
-
+https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm
