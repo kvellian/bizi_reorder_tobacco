@@ -6,7 +6,7 @@ This dataset, penguins_size.csv, was sourced from Bizi Mart, Antioch CA.
 
 ## Python Code
 
-- [View Data Science Fundamentals Report](https://kvellian.github.io/ds_fundamentals/assets/path/ds_fundamentals_KV.html)
+- [View Bizi Mart Tobacco Reorder Point List Report](https://kvellian.github.io/bizi_reorder_tobacco/assets/path/bizi_tobacco_reorder_v1.html)
 
 ## Purpose
 
