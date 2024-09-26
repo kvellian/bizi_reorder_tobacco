@@ -32,12 +32,6 @@ This color-coded list takes in the Vendor Detail Report for tobacco products ove
 
 **Summary**:
 
-## Reorder Point Rules
-
-## Reorder Point Rules
-
-## Reorder Point Rules
-
 <span style="background-color: red; color: white; padding: 2px;">Red</span> (Critical): Critical reorder needed - if Sold > On Hand or On Hand < Box.
 - If we sold more units than we currently have in stock or if we have less than a case/box in stock.
 - Reorder products immediately.
