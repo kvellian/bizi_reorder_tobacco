@@ -18,6 +18,8 @@ This program assigns box/case values to each product based on its brand and type
 
 NOTE: This program is still a work in progress. Eventually, I will make a color-coded list, similar in concept, for our liquor products.
 
+Please see the current output/results below.
+
 
 ## Use Case
 
