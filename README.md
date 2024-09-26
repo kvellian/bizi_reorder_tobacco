@@ -6,7 +6,7 @@ This dataset contains information such as the count of tobacco items sold during
 
 ## Python Code
 
-- [View Bizi Mart Tobacco Reorder Point List (Version 1) ](https://kvellian.github.io/assets/path/bizi_tobacco_reorder_v1.html)
+- [View Bizi Mart Tobacco Reorder Point List (Version 1) ](https://kvellian.github.io/bizi_reorder_tobacco/assets/path/bizi_tobacco_reorder_v1.html)
 
 ## Purpose
 
