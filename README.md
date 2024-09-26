@@ -2,7 +2,7 @@
 
 This dataset, Tobacco_Inv_8.28.24_9.11.24.csv, was obtained from the Vendor Detail Report via LMS-POS from Bizi Mart in Antioch, CA.
 
-This dataset contains information such as the count of sold tobacco items only during a period of time (8/28/24 to 9/11/24) and the inventory count of the items.
+This dataset contains information such as the count of sold tobacco items during a period of time (8/28/24 to 9/11/24) and the inventory count of the items.
 
 I manually assigned the vendor (PITCO FOODS) to over 270 tobacco products in our system to ensure they will be included in this report, when applicable.
 
