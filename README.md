@@ -54,8 +54,12 @@ The operations manager will create the Vendor Detail Report for tobacco products
 
 - [Bizi Mart Tobacco Reorder Point List](https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm)
 
+## Tobacco List
+
 <iframe src="https://kvellian.github.io/bizi_reorder_tobacco/assets/path/Bizi_Tobacco_List_9.11.24.htm" 
-        style="width: 100%; min-width: 900px; height: 600px;" 
+        width="100%" 
+        height="600px" 
         frameborder="0">
 </iframe>
+
 
