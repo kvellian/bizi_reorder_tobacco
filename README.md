@@ -16,7 +16,10 @@ This project aims to create a color-coded tobacco product shopping list for Bizi
 
 This program assigns box/case values to each product based on its brand and type and calculates reorder points using this information.
 
-NOTE: This program is still a work in progress. Eventually, I will make a color-coded list, similar in concept, for our liquor products.
+NOTE: This program is still a work in progress. Some items have not been assigned case/box values and may not have color-coding in the final result. 
+However, in the meantime, the reader can still evaluate the units sold and units on hand columns before placing an order.
+
+Eventually, I will make a color-coded list, similar in concept, for our liquor products.
 
 Please see the current output/results below.
 
