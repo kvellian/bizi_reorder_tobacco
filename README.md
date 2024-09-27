@@ -28,7 +28,7 @@ Please see the current output/results below.
 
 Bizi Mart places biweekly orders for tobacco products with our vendor, PITCO FOODS. Previously, the shopping list was handwritten or typed. Occasionally, products that were empty on shelves would be forgotten when ordering. 
 
-The operations manager will create the Vendor Detail Report for tobacco products sold over a 2-week period. Afterward, the report will be run through the program to generate a color-coded list via Excel. This list will be used to make more informed decisions when ordering tobacco products.
+The operations manager will create a CSV of the Vendor Detail Report for tobacco products sold over a 2-week period via LMS-POS. Afterward, the report will be run through the program to generate a color-coded list via Excel. This list will be used to make more informed decisions when ordering tobacco products.
 
 ## Reorder Point Rules
 
